@@ -1,0 +1,10 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+/data/*.csv
+.vscode/
+*.html
+*export.ipynb
+GH*.ipynb
